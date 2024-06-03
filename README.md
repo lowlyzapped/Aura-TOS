@@ -23,7 +23,7 @@ If you provide any information that is untrue, inaccurate, not current, or incom
 Fees and Payment
 We accept the following forms of payment:
 
-PayPal
+Stripe
 You may be required to purchase or pay a fee to access some of our services. You agree to provide current, complete, and accurate purchase and account information for all purchases made via the website. You further agree to promptly update account and payment information, including email address, payment method, and payment card expiration date, so that we can complete your transactions and contact you as needed. We bill you through an online billing account for purchases made via the website. Sales tax will be added to the price of purchases as deemed required by us. We may change prices at any time.
 
 You agree to pay all charges or fees at the prices then in effect for your purchases, and you authorize us to charge your chosen payment provider for any such amounts upon making your purchase. If your purchase is subject to recurring charges, then you consent to our charging your payment method on a recurring basis without requiring your prior approval for each recurring charge, until you perform an online cancellation.
@@ -112,6 +112,7 @@ You agree to defend, indemnify, and hold us harmless, including our subsidiaries
 
 User Data
 We will maintain certain data that you transmit to the Bot for the purpose of managing the performance of the Bot, as well as data relating to your use of the Bot. Although we perform regular routine backups of data, you are solely responsible for all data that you transmit or that relates to any activity you have undertaken using the Bot. You agree that we shall have no liability to you for any loss or corruption of any such data, and you hereby waive any right of action against us arising from any such loss or corruption of such data.
+If at any time you wish to have your data deleted or wish to take your data you may contact asmodeus_dev via discord
 
 Electric Communications, Transactions and Signatures
 Using the Bot, visiting the website, sending us emails, and completing online forms constitute electronic communications. You consent to receive electronic communications, and you agree that all agreements, notices, disclosures, and other communications we provide to you electronically, via email and on the Bot, satisfy any legal requirement that such communication be in writing. YOU HEREBY AGREE TO THE USE OF ELECTRONIC SIGNATURES, CONTRACTS, ORDERS, AND OTHER RECORDS, AND TO ELECTRONIC DELIVERY OF NOTICES, POLICIES, AND RECORDS OF TRANSACTIONS INITIATED OR COMPLETED BY US OR VIA THE BOT. You hereby waive any rights or requirements under any statutes, regulations, rules, ordinances, or other laws in any jurisdiction which require an original signature or delivery or retention of non-electronic records, or to payments or the granting of credits by any means other than electronic means.
